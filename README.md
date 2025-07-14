@@ -1,3 +1,3 @@
 ### Gambar kucing
 ini adalah gambar kucing
-! [kucing](foto/kucing.jpeg)
+![kucing](foto/kucing.jpeg)
